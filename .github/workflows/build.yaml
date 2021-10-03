@@ -1,5 +1,4 @@
 name: 'Build docker image'
-description: 'Build a multi arch image and upload to repo'
 on:
   workflow_dispatch:
     inputs:
